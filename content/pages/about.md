@@ -25,4 +25,4 @@ restaurante, también con estudios de especialidad en alimentos y bebidas
 e higiene.
 
 En la música si bien sí he tenido estudios no fueron a nivel superior, puros
-profesores particulares y talles e igualmente con la experiencia y la práctica.
+profesores particulares y tallres e igualmente con la experiencia y la práctica.

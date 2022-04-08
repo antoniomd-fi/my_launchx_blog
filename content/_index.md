@@ -11,4 +11,5 @@ Mis expectativas para esta etapa son:
 
 - Reforzar lo ya aprendido en Front End
 - Adentrarme y profundizar lo más que pueda en Back End
+- Poder dar arranque a mi carrera como desarrollador web
 🚀

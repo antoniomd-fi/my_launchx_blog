@@ -10,9 +10,9 @@ menu:
 Hola, aquí vas a leer un poco sobre mi 🤩
 
 
-> Contempla cada camino de cerca, entonces hazte esta pregunta crucial:
+> "Contempla cada camino de cerca, entonces hazte esta pregunta crucial:
 > ¿me lleva el corazón por esta ruta? Si lo hace, entonces el camino es bueno.
-> Si no es así, es inútil.
+> Si no es así, es inútil."
 
 **Un poco sobre mí** Mi nombre es Antonio Martin, soy de CDMX,
 Actualmente estoy por  terminar la carrera de Ingeniería en Computación,
